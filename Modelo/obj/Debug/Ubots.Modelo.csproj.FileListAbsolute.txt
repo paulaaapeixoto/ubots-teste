@@ -1,0 +1,9 @@
+C:\Users\Paula\source\repos\Ubots\Modelo\bin\Debug\Modelo.dll
+C:\Users\Paula\source\repos\Ubots\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Paula\source\repos\Ubots\Modelo\obj\Debug\Ubots.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Ubots\Modelo\obj\Debug\Modelo.dll
+C:\Users\Paula\source\repos\Ubots\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Paula\source\repos\Ubots\Modelo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paula\source\repos\Ubots\Modelo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paula\source\repos\Ubots\Modelo\obj\Debug\Ubots.Modelo.csproj.CopyComplete
+C:\Users\Paula\source\repos\Ubots\Modelo\obj\Debug\Ubots.Modelo.csprojAssemblyReference.cache

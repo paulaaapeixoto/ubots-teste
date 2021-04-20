@@ -1,0 +1,13 @@
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\obj\Debug\Ubots.Negocio.csprojAssemblyReference.cache
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\obj\Debug\Ubots.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\bin\Debug\Ubots.Negocio.dll
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\bin\Debug\Ubots.Negocio.pdb
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\bin\Debug\Modelo.dll
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\bin\Debug\Ubots.Repositorio.dll
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\bin\Debug\Modelo.pdb
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\bin\Debug\Ubots.Repositorio.pdb
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\obj\Debug\Ubots.Negocio.csproj.CopyComplete
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\obj\Debug\Ubots.Negocio.dll
+C:\Users\Paula\source\repos\Ubots\Ubots.Negocio\obj\Debug\Ubots.Negocio.pdb
